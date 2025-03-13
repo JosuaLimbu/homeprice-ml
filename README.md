@@ -21,7 +21,7 @@ pip install -r requirements.txt
 3. Run the Jupyter Notebook to train the model:
 
 ```bash
-jupyter notebook homeprice-ml.ipynb
+jupyter notebook houseprice-ml.ipynb
 ```
 
 4. Follow the instructions in the notebook to preprocess data, train the model, and evaluate its performance.
